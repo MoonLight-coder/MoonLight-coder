@@ -28,6 +28,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-05122A?style=flat&logo=unrealengine)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
 </td>
 
 <td width="50%" align="center">
@@ -37,3 +39,7 @@
   </td>
 </tr>
 </table>
+<div align="center">
+  <img src="https://media1.tenor.com/m/b3xW7DQjtc0AAAAC/futaba-sakura.gif" alt="hacking ya" width=80% />
+</div>
+
