@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hola!/Hi there! 👋
 
-<!--
-**MoonLight-coder/MoonLight-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre mi ....***
+- :school: Soy un  `Estudiante` de Ingeniería en Informática realizando sus estudios en  [Duoc UC](https://www.duoc.cl/).
+- :technologist: Me encanta encontrar las soluciones a cada `Problema`.
+- :computer: Los ámbitos en los que mas me siento cómodo son en `Desarrollo web`, `Desarrollo de Software`,  `Desarrollador de Aplicaciones` y `Analista Programador`.
+- :student: Actualmente estoy cursando mi último semestre de la carrera, realizando mi Proyecto final, conocido como `Capstone`.
+- :nerd_face: En este momento estoy mejorando mis conocimientos de  `Linux`  y `PHP`.
+- :thinking: Realizando mi practica profesional en `Neozet` como `Analista TI`. 
+- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+<br>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+### 🛠 &nbsp;Herramientas Utilizadas:
+<br></br>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-05122A?style=flat&logo=unrealengine)&nbsp;
+</td>
 
-Here are some ideas to get you started:
+<td width="50%" align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MoonLight-coder&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
