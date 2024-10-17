@@ -8,7 +8,6 @@
 - :student: Actualmente estoy cursando mi último semestre de la carrera, realizando mi Proyecto final, conocido como `Capstone`.
 - :nerd_face: En este momento estoy mejorando mis conocimientos de  `Linux`  y `PHP`.
 - :thinking: Realizando mi practica profesional en `Neozet` como `Analista TI`. 
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 <table align="center">
 <tr border="none">
