@@ -9,10 +9,15 @@
 - :nerd_face: En este momento estoy mejorando mis conocimientos de  `Linux`  y `PHP`.
 - :thinking: Realizando mi practica profesional en `Neozet` como `Analista TI`. 
 <br>
+<hr>
+<div align="center">
+  <img src="https://media1.tenor.com/m/b3xW7DQjtc0AAAAC/futaba-sakura.gif" alt="hacking ya" width=60% />
+</div>
+<hr>
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
+
 ### 🛠 &nbsp;Herramientas Utilizadas:
 <br></br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -30,15 +35,9 @@
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
 </td>
-
 <td width="50%" align="center">
-
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MoonLight-coder&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
   </td>
 </tr>
 </table>
-<div align="center">
-  <img src="https://media1.tenor.com/m/b3xW7DQjtc0AAAAC/futaba-sakura.gif" alt="hacking ya" width=80% />
-</div>
 
