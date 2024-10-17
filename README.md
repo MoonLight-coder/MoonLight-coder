@@ -8,7 +8,6 @@
 - :student: Actualmente estoy cursando mi último semestre de la carrera, realizando mi Proyecto final, conocido como `Capstone`.
 - :nerd_face: En este momento estoy mejorando mis conocimientos de  `Linux`  y `PHP`.
 - :thinking: Realizando mi practica profesional en `Neozet` como `Analista TI`. 
-<br>
 <hr>
 <div align="center">
   <img src="https://media1.tenor.com/m/b3xW7DQjtc0AAAAC/futaba-sakura.gif" alt="hacking ya" width=60% />
@@ -40,4 +39,5 @@
   </td>
 </tr>
 </table>
+<hr>
 
