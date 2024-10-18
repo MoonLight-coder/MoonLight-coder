@@ -2,7 +2,7 @@
 
 <br><br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre mi ....***
-- :school: Soy un  `Estudiante` de Ingeniería en Informática realizando sus estudios en  [Duoc UC](https://www.duoc.cl/).
+- :school: Soy un  `Estudiante` de Ingeniería en Informática, formando mi carrera en  [Duoc UC](https://www.duoc.cl/).
 - :technologist: Me encanta encontrar las soluciones a cada `Problema` y `aprender` cada día más.
 - :computer: Los ámbitos en los que mas me siento cómodo son en `Desarrollo web`, `Desarrollo de Software`,  `Desarrollador de Aplicaciones` y `Analista Programador`.
 - :student: Actualmente estoy cursando mi último semestre de la carrera, realizando mi Proyecto final, conocido como `Capstone`.
