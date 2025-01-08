@@ -2,12 +2,11 @@
 
 <br><br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre mi ....***
-- :school: Soy un  `Estudiante` de Ingeniería en Informática, formando mi carrera en  [Duoc UC](https://www.duoc.cl/).
+- :school: Soy `Egresado` de Ingeniería en Informática, formado en [Duoc UC](https://www.duoc.cl/).
 - :technologist: Me encanta encontrar las soluciones a cada `Problema` y `aprender` cada día más.
 - :computer: Los ámbitos en los que mas me siento cómodo son en `Desarrollo web`, `Tecnicas de Calidad`,  `Desarrollador de Aplicaciones` y `Gestion de Proyectos`.
-- :student: Actualmente estoy cursando mi último semestre de la carrera, realizando mi Proyecto final, conocido como `Capstone`.
 - :nerd_face: En este momento estoy mejorando mis conocimientos de  `Linux`  y `PHP`.
-- :thinking: Realizando mi practica profesional en `Neozet` como `Analista TI`. 
+- :thinking: Actualmente estoy trabajando en `Neozet` como `Analista TI`. 
 <hr>
 <div align="center">
   <img src="https://media1.tenor.com/m/b3xW7DQjtc0AAAAC/futaba-sakura.gif" alt="hacking ya" width=60% />
