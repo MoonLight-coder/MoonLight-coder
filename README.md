@@ -6,7 +6,7 @@
 - :technologist: Me encanta encontrar las soluciones a cada `Problema` y `aprender` cada día más.
 - :computer: Los ámbitos en los que mas me siento cómodo son en `Desarrollo web`, `Tecnicas de Calidad`,  `Desarrollador de Aplicaciones` y `Gestion de Proyectos`.
 - :nerd_face: En este momento estoy mejorando mis conocimientos de  `Linux`  y `PHP`.
-- :thinking: Actualmente estoy trabajando en [Neozet]([https://www.duoc.cl/](https://www.neozet.com/) como `Analista TI`. 
+- :thinking: Actualmente estoy trabajando en [Neozet](https://www.neozet.com/) como `Analista TI`. 
 <hr>
 <div align="center">
   <img src="https://media1.tenor.com/m/b3xW7DQjtc0AAAAC/futaba-sakura.gif" alt="hacking ya" width=60% />
