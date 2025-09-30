@@ -2,10 +2,10 @@
 
 <br><br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre mi ....***
-- :school: Soy `egresado` de Ingeniería en Informática, formado en [Duoc UC](https://www.duoc.cl/).
+- :school: Soy `Titulado` de Ingeniería en Informática, formado en [Duoc UC](https://www.duoc.cl/).
 - :technologist: Me encanta encontrar las soluciones a cada `problema` y `aprender` cada día más.
 - :computer: Los ámbitos en los que me siento más cómodo son en `desarrollo web`, `técnicas de calidad`, `desarrollador de aplicaciones` y `gestión de proyectos`.
-- :nerd_face: En este momento estoy mejorando mis conocimientos de `Linux` y `PHP`.
+- :nerd_face: En este momento estoy mejorando mis conocimientos de `Linux`, `PHP` y `Test de Regresión`.
 - :thinking: Actualmente estoy trabajando en [Neozet](https://www.neozet.com/) como `Analista TI`.
 <hr>
 <div align="center">
